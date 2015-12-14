@@ -5,6 +5,7 @@
 # @author Isi Roca
 # @site isiroca.com
 # @license MIT License (MIT) (http://www.opensource.org/licenses/MIT)
+# @Support https://github.com/IsiRoca/geodata-importer/issues
 #############################################
 
 
