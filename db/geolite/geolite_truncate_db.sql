@@ -1,0 +1,6 @@
+TRUNCATE TABLE geoip_city_blocks_ipv4;
+TRUNCATE TABLE geoip_city_blocks_ipv6;
+TRUNCATE TABLE geoip_city_location;
+TRUNCATE TABLE geoip_country_blocks_ipv4;
+TRUNCATE TABLE geoip_country_blocks_ipv6;
+TRUNCATE TABLE geoip_country_location;

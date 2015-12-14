@@ -1,0 +1,1 @@
+languages_array=("de" "en" "es" "fr" "ja" "pt" "ru" "zh")
