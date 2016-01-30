@@ -45,7 +45,7 @@ IGNORE 51 LINES
 LOAD DATA LOCAL INFILE './././download/geonames/zip/allCountries.txt'
 INTO TABLE postalCodes
 CHARACTER SET 'UTF8'
-(country, postal_code, name, admin1_name, admin1_code, admin2_name, admin2_code, admin3_name, admin3_code, latitude, longitude, accuracy)
+(country, postal_code, name, admin1_name, admin1_code, admin2_name, admin2_code, admin3_name, admin3_code, latitude, longitude, accuracy);
 
 LOAD DATA LOCAL INFILE './././download/geonames/alternateNames.txt'
 INTO TABLE alternatename
